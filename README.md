@@ -1,15 +1,15 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:584fd5,50:8154B3,100:a974bd&height=100&section=header&text=안녕하세요&fontColor=ffffff&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:584fd5,50:8154B3,100:a974bd&height=100&section=header&text=Hello, World!&fontColor=ffffff&fontSize=40"/>
 
 <br>
 
-<h3>About Me</h3>
+<h4>About Me</h4>
 <p>
   I’m currently developing web apps and exploring Apple platform development.<br>
   I’m also learning to build fun and creative apps.
 </p>
 
-<h3>Tech Stack</h3>
+<h4>Tech Stack</h4>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -26,18 +26,18 @@
 
 <br>
 
-<h3>Get In Touch</h3>
+<h4>Get In Touch</h4>
 <a href="https://www.instagram.com/duskinblue/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<!-- <a href="https://www.linkedin.com/in/yuminkim-a81888341" target="_blank">
+<a href="https://www.linkedin.com/in/yuminkim-a81888341" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> -->
+</a>
 
 <br>
 
 <div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuminkym5)](https://solved.ac/yuminkym5)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myu-kim&theme=highcontrast)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myu-kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuminkym5)](https://solved.ac/yuminkym5)
 </div>
 </div>
