@@ -6,8 +6,9 @@
 <h4>About Me</h4>
 <p>
   <sub>📍 Based in Seoul, South Korea</sub><br>
-  Currently developing web applications and exploring Apple platform development.<br>
-  I’m also learning to build fun and creative apps.
+  Developing backend systems for AI chatbot projects.
+  Building fun and creative web services as a hobby.
+  I'm also exploring Apple platform development.
 </p>
 
 <h4>Tech Stack</h4>
