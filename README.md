@@ -6,8 +6,8 @@
 <h4>About Me</h4>
 <p>
   <sub>📍 Based in Seoul, South Korea</sub><br>
-  Developing backend systems for AI chatbot projects.
-  Building fun and creative web services as a hobby.
+  Developing backend systems for AI chatbot projects.<br>
+  Building fun and creative web services as a hobby.<br>
   I'm also exploring Apple platform development.
 </p>
 
